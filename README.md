@@ -5,6 +5,9 @@
 - 📫 How to reach me - github? If possible lol
 - 😄 Pronouns: Normal male human being
 
+Mostly here to teach ya'll stuff that i learned along the way or learning linux sys administrating.
+      And ofcourse taking info from ya'll x)
+
 <!---
 bUbuntus/bUbuntus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
