@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on love with another woman
 - 📫 How to reach me - github? If possible lol
 - 😄 Pronouns: Normal male human being
-- Lithuanian
+-  24yo Lithuanian
 
 Mostly here to teach ya'll stuff that i learned along the way or learning linux sys administrating.
       And ofcourse taking info from ya'll x)
